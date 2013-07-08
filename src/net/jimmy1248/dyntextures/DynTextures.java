@@ -8,5 +8,10 @@ public class DynTextures {
 		this.texturepath = texturepath;
 	}
 	
-	
+	public void Open() {
+		
+	}
+	public void Close() {
+		
+	}
 }
